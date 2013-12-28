@@ -2,9 +2,9 @@ Package: rgabriel
 Type: Package
 Title: Gabriel Multiple Comparison Test and Plot the Confidence
         Interval on Barplot
-Version: 0.4
-Date: 2013-12-15
-Author: Miao YU
+Version: 0.7
+Date: 2013-12-28
+Author: Yihui XIE, Miao YU
 Maintainer: Miao YU <yufreecas@gmail.com>
 Description: This package was created to analyze multi-level one-way
         experimental designs. It is designed to handle vectorized
@@ -17,7 +17,7 @@ Description: This package was created to analyze multi-level one-way
         a confidence interval plot for Multiple Comparison.
 URL: https://github.com/yufree/rgabriel
 License: GPL (>= 2)
-Packaged: 2013-12-15 09:45:25 UTC; yufree
+Packaged: 2013-12-28 07:19:31 UTC; yufree
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2013-12-16 07:43:56
+Date/Publication: 2013-12-28 09:08:33

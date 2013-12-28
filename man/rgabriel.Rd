@@ -17,7 +17,7 @@ data vector
 factor vector
 }
   \item{a}{
-alpha level of mutiple comparison. Only alpha = 0.01 or 0.05 could be used as alpha level.
+alpha level of mutiple comparison. 
 }
 }
 \details{
@@ -29,9 +29,11 @@ As shown in Gabriel's paper,use M(alpha,k*,v), the upper alpha point of the Stud
 \references{
 Gabriel, K.R., 1978. A Simple Method of Multiple Comparisons of Means. Journal of the American Statistical Association 73, 724. 
 
-http://www.gmw.rug.nl/~boomsma/apstatdata/wilcox20.R
+Stoline, M.R., Ury, H.K., 1979. Tables of the Studentized Maximum Modulus Distribution and an Application to Multiple Comparisons among Means. Technometrics 21, 87.
 }
 \author{
+Yihui XIE
+
 Miao YU
 }
 
