@@ -1,7 +1,9 @@
-b29fc3e280268882adc47e8da5d163f6 *DESCRIPTION
-8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
-1055bc274b8ce6f57794533c10d808e4 *R/gabriel.plot.R
-a39efb6e533d92febef931713ccce5c2 *R/rgabriel.R
-9b08a826b0daaf47b2dbd30b211a1905 *man/gabriel.plot.Rd
-b03894f41c677dcb0ecf38bb9b309a87 *man/rgabriel-package.Rd
-adde413f774922229e997fc4bf5f204c *man/rgabriel.Rd
+1441b01a40850a9ffe51fb1b7b583d47 *DESCRIPTION
+1953b7ee844ec164b2d6a68bf05ff0e9 *NAMESPACE
+5d3fc252050281111b736e428527fc51 *R/gabriel.plot.R
+5760d0f3cf76f3ce8eb8cbd6d46a4d7a *R/rgabriel-package.R
+6f8ba4fe7b19c8fa7fb161a6ac445155 *R/rgabriel.R
+8cdc7888673125b0bf13b7c10e78a3fe *README.md
+f19661a51d8cdd0d9ecf483ed056f7d8 *man/gabriel.plot.Rd
+e30a933b4cb1a9112c4b02e11723e5b4 *man/rgabriel-package.Rd
+a4b1241fa4f98b8257ca91de06238619 *man/rgabriel.Rd
